@@ -1,3 +1,2 @@
-# This is my second first
+# This is my second repo
 <br>
-Author : KunaL Katiyar
