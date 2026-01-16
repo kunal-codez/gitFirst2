@@ -1,3 +1,3 @@
-This is my second first
+This is my second repository
 <br>
 Author : KunaL Katiyar
